@@ -13,7 +13,7 @@ body{
 }
  body::before{
     content: "";
-    background: url(photo-1542332213-31f87348057f.avif) no-repeat center;
+    background: url(bg.jpg) no-repeat center;
     background-size: auto;
     background-position: center;
     object-fit: cover;
